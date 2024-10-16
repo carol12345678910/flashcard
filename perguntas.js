@@ -5,31 +5,31 @@ criaCartao(
 )
 
 criaCartao(
-    'Arte',
-    'Quem pintou a Monalisa?',
-    'Leonardo da Vinci'
+    'Corpo',
+    'Quantos ossos tem o corpo humano?',
+    '206'
 )
 
 criaCartao(
-    'Arte',
-    'Quem pintou a Monalisa?',
-    'Leonardo da Vinci'
+    'Universo',
+    'Quatas galaxias tem no universo?',
+    'mais ou menos 10 bilhões de galaxias'
 )
 
 criaCartao(
-    'Arte',
-    'Quem pintou a Monalisa?',
-    'Leonardo da Vinci'
+    'País',
+    'Qual o maior país do mundo?',
+    'Rússia'
 )
 
 criaCartao(
-    'Arte',
-    'Quem pintou a Monalisa?',
-    'Leonardo da Vinci'
+    'Comida',
+    'Qual o prato nacional do Brasil?',
+    'A feijoada'
 )
 
 criaCartao(
-    'Arte',
-    'Quem pintou a Monalisa?',
-    'Leonardo da Vinci'
+    'Historia',
+    'Quem descobriu o Brasil?',
+    'Pedro Alvares Cabral'
 )
